@@ -43,22 +43,29 @@ En tant que Jedis de l'environnement, nous nous engageons à :
 
 ### Équipe [sage]
 - [manon Ballester] : *Courte bio et rôle dans le projet*
-- [Prénom Nom] : *Courte bio et rôle dans le projet*
+- [Sébastien] : *Courte bio et rôle dans le projet*
 - [Prénom Nom] : *Courte bio et rôle dans le projet*
 
 ### Équipe [agora]
+- [loan] : *Courte bio et rôle dans le projet*
 - [Prénom Nom] : *Courte bio et rôle dans le projet*
 - [Prénom Nom] : *Courte bio et rôle dans le projet*
-- [Prénom Nom] : *Courte bio et rôle dans le projet*
-## Nos partenaires
+
 
 ### Équipe [éloquence ]
 - [Prénom Nom] : *Courte bio et rôle dans le projet*
 - [Prénom Nom] : *Courte bio et rôle dans le projet*
 - [Prénom Nom] : *Courte bio et rôle dans le projet*
+
+## Nos partenaires
 - [Nom du partenaire 1] : *Description courte du partenaire et de son rôle*
 - [Nom du partenaire 2] : *Description courte du partenaire et de son rôle*
 - [Nom du partenaire 3] : *Description courte du partenaire et de son rôle*
+
+### Équipe [epicureien]
+- [Alexandre] : *Courte bio et rôle dans le projet*
+- [Prénom Nom] : *Courte bio et rôle dans le projet*
+- [Prénom Nom] : *Courte bio et rôle dans le projet*
 
 ## Nos ressources
 
