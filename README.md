@@ -42,7 +42,7 @@ En tant que Jedis de l'environnement, nous nous engageons à :
 - [Prénom Nom] : *Courte bio et rôle dans le projet*
 
 ### Équipe [sage]
-- [] : *Courte bio et rôle dans le projet*
+- [manon Ballester] : *Courte bio et rôle dans le projet*
 - [Prénom Nom] : *Courte bio et rôle dans le projet*
 - [Prénom Nom] : *Courte bio et rôle dans le projet*
 
