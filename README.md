@@ -23,7 +23,7 @@ En tant que Jedis de l'environnement, nous nous engageons à :
 ### [Nom du projet 1]
 *À compléter avec une description du premier projet, photos, et résultats*
 
-### [Nom du projet 2]
+### [carte cytoyene sur l'accessibilité ]
 *À compléter avec une description du deuxième projet, photos, et résultats*
 
 ### [Nom du projet 3]
@@ -36,12 +36,12 @@ En tant que Jedis de l'environnement, nous nous engageons à :
 ## Qui sont les Jedis ?
 
 ### Équipe [cartographe]
-- [Prénom Nom] : *Courte bio et rôle dans le projet*
+- [mathis geffre-duhec] : *je suis codeur*
 - [Prénom Nom] : *Courte bio et rôle dans le projet*
 - [Prénom Nom] : *Courte bio et rôle dans le projet*
 
 ### Équipe [sage]
-- [Prénom Nom] : *Courte bio et rôle dans le projet*
+- [] : *Courte bio et rôle dans le projet*
 - [Prénom Nom] : *Courte bio et rôle dans le projet*
 - [Prénom Nom] : *Courte bio et rôle dans le projet*
 
