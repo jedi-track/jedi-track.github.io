@@ -35,18 +35,26 @@ En tant que Jedis de l'environnement, nous nous engageons à :
 
 ## Qui sont les Jedis ?
 
-### Équipe [Nom d'équipe 1]
+### Équipe [cartographe]
 - [Prénom Nom] : *Courte bio et rôle dans le projet*
 - [Prénom Nom] : *Courte bio et rôle dans le projet*
 - [Prénom Nom] : *Courte bio et rôle dans le projet*
 
-### Équipe [Nom d'équipe 2]
+### Équipe [sage]
 - [Prénom Nom] : *Courte bio et rôle dans le projet*
 - [Prénom Nom] : *Courte bio et rôle dans le projet*
 - [Prénom Nom] : *Courte bio et rôle dans le projet*
 
+### Équipe [agora]
+- [Prénom Nom] : *Courte bio et rôle dans le projet*
+- [Prénom Nom] : *Courte bio et rôle dans le projet*
+- [Prénom Nom] : *Courte bio et rôle dans le projet*
 ## Nos partenaires
 
+### Équipe [éloquence ]
+- [Prénom Nom] : *Courte bio et rôle dans le projet*
+- [Prénom Nom] : *Courte bio et rôle dans le projet*
+- [Prénom Nom] : *Courte bio et rôle dans le projet*
 - [Nom du partenaire 1] : *Description courte du partenaire et de son rôle*
 - [Nom du partenaire 2] : *Description courte du partenaire et de son rôle*
 - [Nom du partenaire 3] : *Description courte du partenaire et de son rôle*
