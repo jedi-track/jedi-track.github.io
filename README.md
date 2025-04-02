@@ -1,6 +1,7 @@
 # Jedi-Track : Jeunes en Quête de Science pour les Territoires
 
 ![Logo Jedi-Track](assets/images/logo-jedi-track.png)
+https://jedi-track.notion.site/Trombinoscope-Les-Pacman-s-La-Rochelle-35eb2b39ef58418284dd3c3f379235e7?pvs=4
 
 ## Qui sommes-nous ?
 
