@@ -21,13 +21,13 @@ En tant que Jedis de l'environnement, nous nous engageons à :
 
 ## Nos actions
 
-### [Nom du projet 1]
-*À compléter avec une description du premier projet, photos, et résultats*
-
-### [carte cytoyene sur l'accessibilité ]
+### [Campagne de sensibilisation au confort thermique]
+Pour verifier le confort thermique nous avons pendant une semaine,chacun son tours,nous avons tous pris un capteur thermique pour verifier si chez nous,c'est bien isolée. Apres cette etape nous avons effectuer une marche thermique a l'aide d'une camera thermique pour voir l'isolation des batiments de notre quartier.
+![Photo Marche Thermique](WhatsApp Image 2025-02-19 at 20.28.14.jpeg)
+### [Carte citoyene sur l'accessibilité]
 *À compléter avec une description du deuxième projet, photos, et résultats*
 
-### [Nom du projet 3]
+### [Découverte de la programmation et réalisation de la borne d'arcade du local]
 *À compléter avec une description du troisième projet, photos, et résultats*
 
 ## Carte de nos interventions
