@@ -31,6 +31,11 @@ Nous nous avons promener dans le quartier de La Palice pour reperer tout les pro
 
 Lors d'une journée festive, les jeunes du local ont invité tous les adhérents du Vents des Iles à participer à une journée de cartographie ponctué par un repas partagé au parc de Laleu.
 
+![](IMG_20240706_111742.jpg)
+![](IMG_20240706_115252.jpg)
+![](PXL_20240706_071547158.jpg)
+![](PXL_20240706_104708472.jpg)
+![](IMG_20240706_102908.jpg)
 ### [Découverte de la programmation et réalisation de la borne d'arcade du local]
 *À compléter avec une description du troisième projet, photos, et résultats*
 
