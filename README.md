@@ -21,12 +21,12 @@ En tant que Jedis de l'environnement, nous nous engageons à :
 
 ## Nos actions
 
-### [Campagne de sensibilisation au confort thermique]
+### Campagne de sensibilisation au confort thermique
 Pour verifier le confort thermique nous avons pendant une semaine,chacun son tours,nous avons tous pris un capteur thermique pour verifier si chez nous,c'est bien isolée. Apres cette etape nous avons effectuer une marche thermique a l'aide d'une camera thermique pour voir l'isolation des batiments de notre quartier.
 
 ![Photo Marche Thermique](photo_marche_thermique.jpeg)
 
-### [Carte citoyene sur l'accessibilité]
+### Carte citoyene sur l'accessibilité
 Nous nous avons promener dans le quartier de La Palice pour reperer tout les problemes d'accisibiliter tel que les nils de poule,probleme de bateau ou bien meme des passage pietons mal placée.
 
 Lors d'une journée festive, les jeunes du local ont invité tous les adhérents du Vents des Iles à participer à une journée de cartographie ponctué par un repas partagé au parc de Laleu.
@@ -36,8 +36,10 @@ Lors d'une journée festive, les jeunes du local ont invité tous les adhérents
 ![](PXL_20240706_071547158.jpg)
 ![](PXL_20240706_104708472.jpg)
 ![](IMG_20240706_102908.jpg)
-### [Découverte de la programmation et réalisation de la borne d'arcade du local]
-*À compléter avec une description du troisième projet, photos, et résultats*
+
+
+### Découverte de la programmation et réalisation de la borne d'arcade du local
+Pour commencer nous avons realisé des jeux via microsoft make code puis nous avons commencer a faire des maquettes puis dorenavent nous avons une bande arcade fonctionelle.
 
 ## Carte de nos interventions
 
