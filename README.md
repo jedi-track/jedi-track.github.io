@@ -39,8 +39,13 @@ Lors d'une journée festive, les jeunes du local ont invité tous les adhérents
 
 
 ### Découverte de la programmation et réalisation de la borne d'arcade du local
-Pour commencer nous avons realisé des jeux via microsoft make code puis nous avons commencer a faire des maquettes puis dorenavent nous avons une bande arcade fonctionelle.
+Pour commencer nous avons realisé des jeux via microsoft make code puis nous avons commencer a faire des maquettes puis dorenavent nous avons une bande arcade fonctionelle
+
 https://makecode.com/_ccL18Cff374x
+
+<iframe src="https://makecode.microbit.org//#pub:_ccL18Cff374x"/>
+
+
 ## Carte de nos interventions
 
 *Insérer ici une carte interactive des lieux d'intervention des jeunes*
