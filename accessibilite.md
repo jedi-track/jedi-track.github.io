@@ -1,4 +1,4 @@
-### Carte citoyene sur l'accessibilité
+# Carte citoyene sur l'accessibilité
 Lors d'une journée festive, les jeunes du local ont invité tous les adhérents du Vents des îles à participer à une journée de cartographie ponctuée par un repas partagé au parc de Laleu.
 
 Nous nous sommes promenés dans le quartier de La Pallice et Laleu pour repérer tous les problèmes d'accessibilité tel que les nids-de-poule, les problèmes de bateau ou bien même des passages piétons mal placés :
