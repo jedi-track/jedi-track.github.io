@@ -1,4 +1,6 @@
 # Campagne de sensibilisation au confort thermique
+<img src="https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Fiche_Campagne_Thermoconfort.png?raw=true" alt="Fiche Campagne Thermoconfort" width="100%">
+
 Pour vérifier le confort thermique, nous avons, pendant une semaine, chacun notre tour, pris un capteur thermique pour vérifier si, chez nous, c'était bien isolé. 
 
 Nous avons ensuite croisé ces informations avec nos ressentis sur notre confort dans différentes pièces de la maison (chambre, cuisine, salle de bain...) grâce à un questionnaire.
