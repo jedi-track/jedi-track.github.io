@@ -19,8 +19,6 @@ En tant que Jedis de l'environnement, nous nous engageons à :
 
 ## Qui sont les Jedis ?
 
-### 🌟 Nos représentants
-
 | ![Mathis](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Mathis.png?raw=true) | ![Kamerone](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Kamerone.png?raw=true) |
 |:-----------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
 | **Mathis** – Cartographe en chef 🧭  <br>✍️ Je suis codeur | **Kamerone** – Notre Barde 🎤<br>✍️ Bio à compléter |
@@ -28,10 +26,6 @@ En tant que Jedis de l'environnement, nous nous engageons à :
 | ![Loan](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Loan.png?raw=true) | ![Alexandre](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Alexandre.png?raw=true) |
 |:----------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
 | **Loan** – Notre Agora 🗣️<br>✍️ Bio à compléter | **Alexandre** – Notre Épicurien 🍽️<br>✍️ Bio à compléter |
-
----
-
-### 👥 Les autres membres du groupe
 
 | ![Savannah](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Savannah.png?raw=true) | ![Rachel](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Rachel.png?raw=true) |
 |:--------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
@@ -41,15 +35,12 @@ En tant que Jedis de l'environnement, nous nous engageons à :
 |:---------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
 | **Cassandra** <br>✍️ Bio à compléter | **Mathis (2)** <br>✍️ Bio à compléter |
 
----
-
 ### 🧙 Le Conseil des Sages (animateurs)
 
 | ![Lenna](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Lenna.png?raw=true) | ![Manue](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Manue.png?raw=true) | ![Sébastien](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/S%C3%A9bastien.png?raw=true) | ![Manon](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Manon.png?raw=true) | ![Charly](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Charly.png?raw=true) |
 |:--------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
 | **Lenna** <br>✍️ Bio à compléter | **Manue** <br>✍️ Bio à compléter | **Sébastien** <br>✍️ Bio à compléter | **Manon** <br>✍️ Bio à compléter | **Charly** <br>✍️ Bio à compléter |
 
----
 
 ## Nos partenaires
 
@@ -60,8 +51,6 @@ En tant que Jedis de l'environnement, nous nous engageons à :
 
 - 📧 Email : [contact@lesemulsionneurs.fr]
 - 📱 Instagram : [@jedipacmans]
-
----
 
 *Ce projet est financé par le programme Erasmus+ de l'Union européenne et le programme "ADEI : CSTI pour toutes et tous".*
 
