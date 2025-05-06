@@ -29,6 +29,6 @@ Nous nous sommes promenés dans le quartier de La Pallice et Laleu pour repérer
 
 Cette journée nous a permis de créer une carte interactive pour repérer les problèmes d’accessibilité dans le quartier, disponible sur uMap, un outil open source pratique pour tous les habitants.
 
-| ![](IMG_20240706_111742.jpg) | ![](IMG_20240706_115252.jpg) | ![](PXL_20240706_071547158.jpg) |
-|------------------------------|------------------------------|----------------------------------|
-| ![](PXL_20240706_104708472.jpg) | ![](IMG_20240706_102908.jpg) |                                  |
+| ![](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/IMG_20240706_102908.jpg?raw=true) | ![](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/IMG_20240706_111742.jpg?raw=true) | ![](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/IMG_20240706_115252.jpg?raw=true) |
+|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| ![](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/PXL_20240706_071547158.jpg?raw=true) | ![](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/PXL_20240706_104708472.jpg?raw=true) | ![](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/PXL_20240706_071536133.jpg?raw=true) |
