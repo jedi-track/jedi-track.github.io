@@ -1,5 +1,5 @@
 # Jedi-Track : Jeunes en Quête de Science pour les Territoires
-<img src="https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/JEDI-TRACK%20(2).png?raw=true" alt="JEDI-TRACK logo ou visuel" width="30%">
+<img src="https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/JEDI-TRACK%20(2).png" alt="JEDI-TRACK logo ou visuel" width="30%">
 
 ## Qui sommes-nous ?
 
