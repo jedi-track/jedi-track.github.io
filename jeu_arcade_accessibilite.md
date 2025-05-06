@@ -1,5 +1,4 @@
 # Jeu vidéo : Accessibilité en ville  
-## Créé par les jeunes du Local Ouest – CSC Vent des Îles
 
 🎮 Un jeu vidéo conçu avec **MakeCode Arcade**, réalisé par les **Jedi Pacman’s ᗧ···ᗣ···ᗣ··**, pour sensibiliser aux **problèmes d’accessibilité** dans notre quartier.
 
