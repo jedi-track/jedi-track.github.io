@@ -1,7 +1,5 @@
 # Jedi-Track : Jeunes en Quête de Science pour les Territoires
-
-![Logo Jedi-Track](assets/images/logo-jedi-track.png)
-https://jedi-track.notion.site/Trombinoscope-Les-Pacman-s-La-Rochelle-35eb2b39ef58418284dd3c3f379235e7?pvs=4
+<img src="https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/JEDI-TRACK%20(2).png" alt="JEDI-TRACK logo ou visuel" width="30%">
 
 ## Qui sommes-nous ?
 
@@ -19,40 +17,9 @@ En tant que Jedis de l'environnement, nous nous engageons à :
 - 🔍 **Observer et collecter des données** sur notre environnement local
 - 💡 **Proposer des solutions innovantes** aux problèmes identifiés
 
-## Nos actions
-
-### Campagne de sensibilisation au confort thermique
-Pour verifier le confort thermique nous avons pendant une semaine,chacun son tours,nous avons tous pris un capteur thermique pour verifier si chez nous,c'est bien isolée. Apres cette etape nous avons effectuer une marche thermique a l'aide d'une camera thermique pour voir l'isolation des batiments de notre quartier.
-
-![Photo Marche Thermique](photo_marche_thermique.jpeg)
-
-### Carte citoyene sur l'accessibilité
-Nous nous avons promener dans le quartier de La Palice pour reperer tout les problemes d'accisibiliter tel que les nils de poule,probleme de bateau ou bien meme des passage pietons mal placée.
-
-Lors d'une journée festive, les jeunes du local ont invité tous les adhérents du Vents des Iles à participer à une journée de cartographie ponctué par un repas partagé au parc de Laleu.
-
-![](IMG_20240706_111742.jpg)
-![](IMG_20240706_115252.jpg)
-![](PXL_20240706_071547158.jpg)
-![](PXL_20240706_104708472.jpg)
-![](IMG_20240706_102908.jpg)
-
-
-### Découverte de la programmation et réalisation de la borne d'arcade du local
-Pour commencer nous avons realisé des jeux via microsoft make code puis nous avons commencer a faire des maquettes puis dorenavent nous avons une bande arcade fonctionelle
-
-https://makecode.com/_ccL18Cff374x
-
-<div style="position:relative;height:0;padding-bottom:117.6%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://arcade.makecode.com/---run?id=_17w590hm19d5" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
-
-
-## Carte de nos interventions
-
-*Insérer ici une carte interactive des lieux d'intervention des jeunes*
-
 ## Qui sont les Jedis ?
 
-### Équipe [cartographe]
+### Nos représentants [cartographe]
 - [mathis geffre-duhec] : *je suis codeur*
 - [Prénom Nom] : *Courte bio et rôle dans le projet*
 - [Prénom Nom] : *Courte bio et rôle dans le projet*

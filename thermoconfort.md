@@ -1,5 +1,5 @@
 # Campagne de sensibilisation au confort thermique
-<img src="https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Fiche_Campagne_Thermoconfort.png?raw=true" alt="Fiche Campagne Thermoconfort" width="100%">
+<img src="https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/Fiche_Campagne_Thermoconfort.png" alt="Fiche Campagne Thermoconfort" width="100%">
 
 Pour vérifier le confort thermique, nous avons, pendant une semaine, chacun notre tour, pris un capteur thermique pour vérifier si, chez nous, c'était bien isolé. 
 
@@ -70,5 +70,4 @@ Nous avons ensuite croisé ces informations avec nos ressentis sur notre confort
 
 Après cette étape, nous avons effectué une marche thermique à l'aide d'une caméra thermique pour voir l'isolation des bâtiments de notre quartier.
 
-![Photo Marche Thermique](photo_marche_thermique.jpeg)
-
+<img src="https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/photo_marche_thermique.jpeg" alt="Fiche Campagne Thermoconfort" width="100%">
