@@ -1,4 +1,6 @@
 # Carte citoyene sur l'accessibilité
+<img src="https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Fiche_Campagne_Accessibilit%C3%A9.png?raw=true" alt="Fiche Campagne Accessibilité" width="100%">
+
 Lors d'une journée festive, les jeunes du local ont invité tous les adhérents du Vents des îles à participer à une journée de cartographie ponctuée par un repas partagé au parc de Laleu.
 
 Nous nous sommes promenés dans le quartier de La Pallice et Laleu pour repérer tous les problèmes d'accessibilité tel que les nids-de-poule, les problèmes de bateau ou bien même des passages piétons mal placés :
