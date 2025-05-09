@@ -1,4 +1,5 @@
-# Jedi-Track : Jeunes en Quête de Science pour les Territoires - Les Jedi Pacman's ᗧ···ᗣ···ᗣ··
+## Jedi-Track : Jeunes en Quête de Science pour les Territoires
+# Les Jedi Pacman's ᗧ···ᗣ···ᗣ··
 <img src="Images/JEDI-TRACK%20(2).png" alt="JEDI-TRACK logo ou visuel" width="30%">
 
 ## Qui sommes-nous ?
@@ -43,14 +44,13 @@ En tant que Jedis de l'environnement, nous nous engageons à :
 
 
 ## Nos partenaires
-
-- **La Scientothèque**  
-  [https://www.lascientotheque.be/](https://www.lascientotheque.be/)  
+**La Scientothèque**  
+[https://www.lascientotheque.be/](https://www.lascientotheque.be/)  
 
 ## Nous contacter
 
-- 📧 Email : [contact@lesemulsionneurs.fr]
-- 📱 Instagram : [@jedipacmans]
+- 📧 Email : contact@lesemulsionneurs.fr
+- 📱 Instagram : @jedipacmans
 
 *Ce projet est financé par le programme Erasmus+ de l'Union européenne et le programme "ADEI : CSTI pour toutes et tous".*
 
