@@ -1,5 +1,5 @@
 # Jedi-Track : Jeunes en Quête de Science pour les Territoires - Les Jedi Pacman's ᗧ···ᗣ···ᗣ··
-<img src="https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/JEDI-TRACK%20(2).png" alt="JEDI-TRACK logo ou visuel" width="30%">
+<img src="Images/JEDI-TRACK%20(2).png" alt="JEDI-TRACK logo ou visuel" width="30%">
 
 ## Qui sommes-nous ?
 
@@ -19,25 +19,25 @@ En tant que Jedis de l'environnement, nous nous engageons à :
 
 ## Qui sont les Jedis ?
 
-| ![Mathis](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Mathis.png?raw=true) | ![Kamerone](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Kamerone.png?raw=true) |
+| ![Mathis](Trombinoscope/Mathis.png?raw=true) | ![Kamerone](Trombinoscope/Kamerone.png?raw=true) |
 |:-----------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
 | **Mathis** – Cartographe en chef 🧭  <br>✍️ Je suis codeur | **Kamerone** – Notre Barde 🎤<br>✍️ Je suis la personne qui aime le plus de trucs au monde |
 
-| ![Loan](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Loan.png?raw=true) | ![Alexandre](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Alexandre.png?raw=true) |
+| ![Loan](Trombinoscope/Loan.png?raw=true) | ![Alexandre](Trombinoscope/Alexandre.png?raw=true) |
 |:----------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
 | **Loan** – Notre Agora 🗣️<br>✍️ Je suis ton père | **Alexandre** – Notre Épicurien 🍽️<br>✍️ Bio à compléter |
 
-| ![Savannah](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Savannah.png?raw=true) | ![Rachel](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Rachel.png?raw=true) |
+| ![Savannah](Trombinoscope/Savannah.png?raw=true) | ![Rachel](Trombinoscope/Rachel.png?raw=true) |
 |:--------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
 | **Savannah** <br>✍️ Je suis un guépard | **Rachel** <br>✍️ Je suis une éponge |
 
-| ![Cassandra](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Cassandra.png?raw=true) | ![Mathis 2](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Mathis_2.png?raw=true) |
+| ![Cassandra](Trombinoscope/Cassandra.png?raw=true) | ![Mathis 2](Trombinoscope/Mathis_2.png?raw=true) |
 |:---------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
 | **Cassandra** <br>✍️ Je suis un nutriment | **Mathis** <br>✍️ Je suis informaticien |
 
 ### 🧙 Le Conseil des Sages (animateurs)
 
-| ![Lenna](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Lenna.png?raw=true) | ![Manue](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Manue.png?raw=true) | ![Sébastien](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/S%C3%A9bastien.png?raw=true) | ![Manon](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Manon.png?raw=true) | ![Charly](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Charly.png?raw=true) |
+| ![Lenna](Trombinoscope/Lenna.png?raw=true) | ![Manue](Trombinoscope/Manue.png?raw=true) | ![Sébastien](Trombinoscope/S%C3%A9bastien.png?raw=true) | ![Manon](Trombinoscope/Manon.png?raw=true) | ![Charly](Trombinoscope/Charly.png?raw=true) |
 |:--------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
 | **Lenna** <br>✍️ Je suis qui je suis que je suis | **Manue** <br>✍️ Bio à compléter | **Sébastien** <br>✍️ Bio à compléter | **Manon** <br>✍️ Je suis donc je pense | **Charly** <br>✍️ Je suis sans inspi |
 
