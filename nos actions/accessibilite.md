@@ -1,5 +1,5 @@
 # Carte citoyene sur l'accessibilité
-<img src="https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/Fiche_Campagne_Accessibilit%C3%A9.png" alt="Fiche Campagne Accessibilité" width="100%">
+<img src="/Images/Fiche_Campagne_Accessibilit%C3%A9.png" alt="Fiche Campagne Accessibilité" width="100%">
 
 Lors d'une journée festive, les jeunes du local ont invité tous les adhérents du Vents des îles à participer à une journée de cartographie ponctuée par un repas partagé au parc de Laleu.
 
@@ -29,6 +29,6 @@ Nous nous sommes promenés dans le quartier de La Pallice et Laleu pour repérer
 
 Cette journée nous a permis de créer une carte interactive pour repérer les problèmes d’accessibilité dans le quartier, disponible sur uMap, un outil open source pratique pour tous les habitants.
 
-| ![](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/IMG_20240706_102908.jpg?raw=true) | ![](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/IMG_20240706_111742.jpg?raw=true) | ![](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/IMG_20240706_115252.jpg?raw=true) |
+| ![](/Images/IMG_20240706_102908.jpg?raw=true) | ![](/Images/IMG_20240706_111742.jpg?raw=true) | ![](/Images/IMG_20240706_115252.jpg?raw=true) |
 |------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| ![](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/PXL_20240706_071547158.jpg?raw=true) | ![](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/PXL_20240706_104708472.jpg?raw=true) | ![](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/PXL_20240706_071536133.jpg?raw=true) |
+| ![](/Images/PXL_20240706_071547158.jpg?raw=true) | ![](/Images/PXL_20240706_104708472.jpg?raw=true) | ![](/Images/PXL_20240706_071536133.jpg?raw=true) |
