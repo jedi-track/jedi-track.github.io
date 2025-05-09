@@ -54,5 +54,5 @@ En tant que Jedis de l'environnement, nous nous engageons à :
 
 *Ce projet est financé par le programme Erasmus+ de l'Union européenne et le programme "ADEI : CSTI pour toutes et tous".*
 
-| ![](https://www.erasmusplus-fr.be/fileadmin/_processed_/a/a/csm_FR_Cofinance_par_l_Union_europeenne_PANTONE_f492e64842.png) | ![](https://www.agenda-2030.fr/IMG/jpg/logo_na_horiz_quadri_2019.jpg) |
-|:-------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|
+![](https://www.erasmusplus-fr.be/fileadmin/_processed_/a/a/csm_FR_Cofinance_par_l_Union_europeenne_PANTONE_f492e64842.png)
+![](https://www.agenda-2030.fr/IMG/jpg/logo_na_horiz_quadri_2019.jpg)
