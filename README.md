@@ -1,7 +1,5 @@
-# Jedi-Track : Jeunes en Quête de Science pour les Territoires
-
-![Logo Jedi-Track](assets/images/logo-jedi-track.png)
-https://jedi-track.notion.site/Trombinoscope-Les-Pacman-s-La-Rochelle-35eb2b39ef58418284dd3c3f379235e7?pvs=4
+# Jedi-Track : Jeunes en Quête de Science pour les Territoires - Les Jedi Pacman's ᗧ···ᗣ···ᗣ··
+<img src="https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/JEDI-TRACK%20(2).png" alt="JEDI-TRACK logo ou visuel" width="30%">
 
 ## Qui sommes-nous ?
 
@@ -19,86 +17,42 @@ En tant que Jedis de l'environnement, nous nous engageons à :
 - 🔍 **Observer et collecter des données** sur notre environnement local
 - 💡 **Proposer des solutions innovantes** aux problèmes identifiés
 
-## Nos actions
-
-### Campagne de sensibilisation au confort thermique
-Pour verifier le confort thermique nous avons pendant une semaine,chacun son tours,nous avons tous pris un capteur thermique pour verifier si chez nous,c'est bien isolée. Apres cette etape nous avons effectuer une marche thermique a l'aide d'une camera thermique pour voir l'isolation des batiments de notre quartier.
-
-![Photo Marche Thermique](photo_marche_thermique.jpeg)
-
-### Carte citoyene sur l'accessibilité
-Nous nous avons promener dans le quartier de La Palice pour reperer tout les problemes d'accisibiliter tel que les nils de poule,probleme de bateau ou bien meme des passage pietons mal placée.
-
-Lors d'une journée festive, les jeunes du local ont invité tous les adhérents du Vents des Iles à participer à une journée de cartographie ponctué par un repas partagé au parc de Laleu.
-
-![](IMG_20240706_111742.jpg)
-![](IMG_20240706_115252.jpg)
-![](PXL_20240706_071547158.jpg)
-![](PXL_20240706_104708472.jpg)
-![](IMG_20240706_102908.jpg)
-
-
-### Découverte de la programmation et réalisation de la borne d'arcade du local
-Pour commencer nous avons realisé des jeux via microsoft make code puis nous avons commencer a faire des maquettes puis dorenavent nous avons une bande arcade fonctionelle
-
-https://makecode.com/_ccL18Cff374x
-
-<div style="position:relative;height:0;padding-bottom:117.6%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://arcade.makecode.com/---run?id=_17w590hm19d5" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
-
-
-## Carte de nos interventions
-
-*Insérer ici une carte interactive des lieux d'intervention des jeunes*
-
 ## Qui sont les Jedis ?
 
-### Équipe [cartographe]
-- [mathis geffre-duhec] : *je suis codeur*
-- [Prénom Nom] : *Courte bio et rôle dans le projet*
-- [Prénom Nom] : *Courte bio et rôle dans le projet*
+| ![Mathis](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Mathis.png?raw=true) | ![Kamerone](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Kamerone.png?raw=true) |
+|:-----------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
+| **Mathis** – Cartographe en chef 🧭  <br>✍️ Je suis codeur | **Kamerone** – Notre Barde 🎤<br>✍️ Je suis la personne qui aime le plus de trucs au monde |
 
-### Équipe [sage]
-- [manon Ballester] : *Courte bio et rôle dans le projet*
-- [Sébastien] : *Courte bio et rôle dans le projet*
-- [Prénom Nom] : *Courte bio et rôle dans le projet*
+| ![Loan](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Loan.png?raw=true) | ![Alexandre](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Alexandre.png?raw=true) |
+|:----------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
+| **Loan** – Notre Agora 🗣️<br>✍️ Je suis ton père | **Alexandre** – Notre Épicurien 🍽️<br>✍️ Bio à compléter |
 
-### Équipe [agora]
-- [loan] : *Courte bio et rôle dans le projet*
-- [Prénom Nom] : *Courte bio et rôle dans le projet*
-- [Prénom Nom] : *Courte bio et rôle dans le projet*
+| ![Savannah](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Savannah.png?raw=true) | ![Rachel](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Rachel.png?raw=true) |
+|:--------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
+| **Savannah** <br>✍️ Je suis un guépard | **Rachel** <br>✍️ Je suis une éponge |
 
+| ![Cassandra](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Cassandra.png?raw=true) | ![Mathis 2](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Mathis_2.png?raw=true) |
+|:---------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
+| **Cassandra** <br>✍️ Je suis un nutriment | **Mathis** <br>✍️ Je suis informaticien |
 
-### Équipe [éloquence ]
-- [Prénom Nom] : *Courte bio et rôle dans le projet*
-- [Prénom Nom] : *Courte bio et rôle dans le projet*
-- [Prénom Nom] : *Courte bio et rôle dans le projet*
+### 🧙 Le Conseil des Sages (animateurs)
+
+| ![Lenna](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Lenna.png?raw=true) | ![Manue](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Manue.png?raw=true) | ![Sébastien](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/S%C3%A9bastien.png?raw=true) | ![Manon](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Manon.png?raw=true) | ![Charly](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Charly.png?raw=true) |
+|:--------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
+| **Lenna** <br>✍️ Je suis qui je suis que je suis | **Manue** <br>✍️ Bio à compléter | **Sébastien** <br>✍️ Bio à compléter | **Manon** <br>✍️ Je suis donc je pense | **Charly** <br>✍️ Je suis sans inspi |
+
 
 ## Nos partenaires
-- [Nom du partenaire 1] : *Description courte du partenaire et de son rôle*
-- [Nom du partenaire 2] : *Description courte du partenaire et de son rôle*
-- [Nom du partenaire 3] : *Description courte du partenaire et de son rôle*
 
-### Équipe [epicureien]
-- [Alexandre] : *Courte bio et rôle dans le projet*
-- [Prénom Nom] : *Courte bio et rôle dans le projet*
-- [Prénom Nom] : *Courte bio et rôle dans le projet*
-
-## Nos ressources
-
-- [Guide de création de capteurs environnementaux DIY](lien-vers-ressource)
-- [Tutoriel de cartographie participative](lien-vers-ressource)
-- [Méthodologie de collecte de données](lien-vers-ressource)
-- [Présentations de nos résultats](lien-vers-ressource)
+- **La Scientothèque**  
+  [https://www.lascientotheque.be/](https://www.lascientotheque.be/)  
 
 ## Nous contacter
 
-- 📧 Email : [email@jedi-track.org]
-- 🐦 Twitter : [@jeditrack]
-- 📱 Instagram : [@jedi_track]
-- 📍 Adresse : [Adresse du local principal du projet]
-
----
+- 📧 Email : [contact@lesemulsionneurs.fr]
+- 📱 Instagram : [@jedipacmans]
 
 *Ce projet est financé par le programme Erasmus+ de l'Union européenne et le programme "ADEI : CSTI pour toutes et tous".*
 
-![Logo Erasmus+](assets/images/logo-erasmus.png) ![Logo ADEI](assets/images/logo-adei.png)
+| ![](https://www.erasmusplus-fr.be/fileadmin/_processed_/a/a/csm_FR_Cofinance_par_l_Union_europeenne_PANTONE_f492e64842.png) | ![](https://www.agenda-2030.fr/IMG/jpg/logo_na_horiz_quadri_2019.jpg) |
+|:-------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|
