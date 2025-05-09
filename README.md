@@ -21,25 +21,25 @@ En tant que Jedis de l'environnement, nous nous engageons à :
 
 | ![Mathis](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Mathis.png?raw=true) | ![Kamerone](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Kamerone.png?raw=true) |
 |:-----------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
-| **Mathis** – Cartographe en chef 🧭  <br>✍️ Je suis codeur | **Kamerone** – Notre Barde 🎤<br>✍️ Bio à compléter |
+| **Mathis** – Cartographe en chef 🧭  <br>✍️ Je suis codeur | **Kamerone** – Notre Barde 🎤<br>✍️ Je suis la personne qui aime le plus de trucs au monde |
 
 | ![Loan](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Loan.png?raw=true) | ![Alexandre](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Alexandre.png?raw=true) |
 |:----------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
-| **Loan** – Notre Agora 🗣️<br>✍️ Bio à compléter | **Alexandre** – Notre Épicurien 🍽️<br>✍️ Bio à compléter |
+| **Loan** – Notre Agora 🗣️<br>✍️ Je suis ton père | **Alexandre** – Notre Épicurien 🍽️<br>✍️ Bio à compléter |
 
 | ![Savannah](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Savannah.png?raw=true) | ![Rachel](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Rachel.png?raw=true) |
 |:--------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
-| **Savannah** <br>✍️ Bio à compléter | **Rachel** <br>✍️ Bio à compléter |
+| **Savannah** <br>✍️ Je suis un guépard | **Rachel** <br>✍️ Je suis une éponge |
 
 | ![Cassandra](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Cassandra.png?raw=true) | ![Mathis 2](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Mathis_2.png?raw=true) |
 |:---------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
-| **Cassandra** <br>✍️ Bio à compléter | **Mathis (2)** <br>✍️ Bio à compléter |
+| **Cassandra** <br>✍️ Je suis un nutriment | **Mathis** <br>✍️ Je suis informaticien |
 
 ### 🧙 Le Conseil des Sages (animateurs)
 
 | ![Lenna](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Lenna.png?raw=true) | ![Manue](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Manue.png?raw=true) | ![Sébastien](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/S%C3%A9bastien.png?raw=true) | ![Manon](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Manon.png?raw=true) | ![Charly](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Trombinoscope/Charly.png?raw=true) |
 |:--------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
-| **Lenna** <br>✍️ Bio à compléter | **Manue** <br>✍️ Bio à compléter | **Sébastien** <br>✍️ Bio à compléter | **Manon** <br>✍️ Bio à compléter | **Charly** <br>✍️ Bio à compléter |
+| **Lenna** <br>✍️ Je suis qui je suis que je suis | **Manue** <br>✍️ Bio à compléter | **Sébastien** <br>✍️ Bio à compléter | **Manon** <br>✍️ Je suis donc je pense | **Charly** <br>✍️ Je suis sans inspi |
 
 
 ## Nos partenaires
