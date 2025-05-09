@@ -25,7 +25,7 @@ En tant que Jedis de l'environnement, nous nous engageons à :
 
 | ![Loan](Trombinoscope/Loan.png?raw=true) | ![Alexandre](Trombinoscope/Alexandre.png?raw=true) |
 |:----------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
-| **Loan** – Notre Agora 🗣️<br>✍️ Je suis ton père | **Alexandre** – Notre Épicurien 🍽️<br>✍️ Bio à compléter |
+| **Loan** – Notre Agora 🗣️<br>✍️ Je suis ton père | **Alexandre** – Notre Épicurien 🍽️<br>✍️ Je suis affamé |
 
 | ![Savannah](Trombinoscope/Savannah.png?raw=true) | ![Rachel](Trombinoscope/Rachel.png?raw=true) |
 |:--------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
@@ -39,7 +39,7 @@ En tant que Jedis de l'environnement, nous nous engageons à :
 
 | ![Lenna](Trombinoscope/Lenna.png?raw=true) | ![Manue](Trombinoscope/Manue.png?raw=true) | ![Sébastien](Trombinoscope/S%C3%A9bastien.png?raw=true) | ![Manon](Trombinoscope/Manon.png?raw=true) | ![Charly](Trombinoscope/Charly.png?raw=true) |
 |:--------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
-| **Lenna** <br>✍️ Je suis qui je suis que je suis | **Manue** <br>✍️ Bio à compléter | **Sébastien** <br>✍️ Bio à compléter | **Manon** <br>✍️ Je suis donc je pense | **Charly** <br>✍️ Je suis sans inspi |
+| **Lenna** <br>✍️ Je suis qui je suis que je suis | **Manue** <br>✍️ Je suis Manue | **Sébastien** <br>✍️ Je suis bio | **Manon** <br>✍️ Je suis donc je pense | **Charly** <br>✍️ Je suis sans inspi |
 
 
 ## Nos partenaires
