@@ -3,9 +3,9 @@
 ## Programmer nos jeux sur MakeCode Arcade
 Pour commencer nous avons realisé des jeux sur MakeCode Arcade : 
 
-| ![MakeCode Arcade 1](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/MakeCodeArcade1.png?raw=true) | ![MakeCode Arcade 2](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/MakeCodeArcade2.png?raw=true) |
+| ![MakeCode Arcade 1](/Images/MakeCodeArcade1.png?raw=true) | ![MakeCode Arcade 2](/Images/MakeCodeArcade2.png?raw=true) |
 |:------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|
-| ![MakeCode Arcade 3](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/MakeCodeArcade3.png?raw=true) | ![MakeCode Arcade 4](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/MakeCodeArcade4.png?raw=true) |
+| ![MakeCode Arcade 3](/Images/MakeCodeArcade3.png?raw=true) | ![MakeCode Arcade 4](/Images/MakeCodeArcade4.png?raw=true) |
 
 
 ### 🏖️ **Les plagistes** – Annwen et Alexandre  
@@ -36,19 +36,19 @@ Ensuite, nous avons fabriqué une manette arcade DIY. Elle permet à deux joueur
 Pendant qu’on faisait le montage, on a dessiné un plan pour mieux suivre les fils et éviter de se tromper. En parallèle, on a aussi commencé à imaginer le visuel de notre borne. Chacun a proposé des idées pour les dessins, les couleurs et les motifs.
 
 Puis Sébastien a apporté les panneaux en bois et nous avons fait l’assemblage. Maintenant, nous avons une borne arcade fonctionnelle. Nous avons organisé un tournoi rétro-gaming avec la manette qu’on a construite. On a joué à des jeux comme Street Fighter II, Tetris ou Mario Kart. C’était une bonne manière de tester si tout marchait bien. Kamerone a gagné !! 🏆🎮👏
-| ![Conception créative](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/conception.png?raw=true) | ![Maquette 1:6](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/maquette.png?raw=true) |
+| ![Conception créative](/Images/conception.png?raw=true) | ![Maquette 1:6](/Images/maquette.png?raw=true) |
 |:-------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
 | **Conception créative et collaborative de notre borne**                                                           | **Maquette 1:6**                                                                                              |
 
-| ![Idée de finition](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/ideedesignborne.jpg?raw=true) | ![Création de la manette](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/manetteborne.jpg?raw=true) |
+| ![Idée de finition](/Images/ideedesignborne.jpg?raw=true) | ![Création de la manette](/Images/manetteborne.jpg?raw=true) |
 |:----------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|
 | **Idée de finition**                                                                                                  | **Création de la manette**                                                                                                  |
 
-| ![Test de la manette](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/ecranborne.jpg?raw=true) | ![Borne complète](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/bornefinie.jpg?raw=true) |
+| ![Test de la manette](/Images/ecranborne.jpg?raw=true) | ![Borne complète](/Images/bornefinie.jpg?raw=true) |
 |:------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|
 | **Test de la manette**                                                                                           | **Borne complète en attente de son covering**                                                                     |
 
-| ![Tournoi](https://github.com/Man-BAL/jedi-track.github.io/blob/patch-1/Images/tournoi.jpg?raw=true) |
+| ![Tournoi](/Images/tournoi.jpg?raw=true) |
 |:------------------------------------------------------------------------------------------------------:|
 | **Tournoi**                                                                                             |
 
