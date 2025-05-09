@@ -39,7 +39,7 @@ En tant que Jedis de l'environnement, nous nous engageons à :
 
 | ![Lenna](Trombinoscope/Lenna.png?raw=true) | ![Manue](Trombinoscope/Manue.png?raw=true) | ![Sébastien](Trombinoscope/S%C3%A9bastien.png?raw=true) | ![Manon](Trombinoscope/Manon.png?raw=true) | ![Charly](Trombinoscope/Charly.png?raw=true) |
 |:--------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
-| **Lenna** <br>✍️ Je suis qui je suis que je suis | **Manue** <br>✍️ Je suis Manue | **Sébastien** <br>✍️ Je suis bio | **Manon** <br>✍️ Je suis donc je pense | **Charly** <br>✍️ Je suis sans inspi |
+| **Lenna** <br>✍️ Je suis MOI | **Manue** <br>✍️ Je suis Manue | **Sébastien** <br>✍️ Je suis bio | **Manon** <br>✍️ Je suis donc je pense | **Charly** <br>✍️ Je suis sans inspi |
 
 
 ## Nos partenaires
