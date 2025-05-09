@@ -6,6 +6,8 @@
 
 Nous sommes un groupe de jeunes passionnés par l'environnement, les sciences et les technologies. Dans le cadre du projet **Jedi-Track** (*Jeunes en Quête de Science pour les Territoires*), nous travaillons ensemble pour améliorer la qualité de vie dans nos quartiers grâce à la science citoyenne et aux outils numériques.
 
+**En trois mots, nous sommes différents (mais unis), gourmands et ... impatients !**
+
 Notre projet, financé par Erasmus+ et le programme "ADEI : CSTI pour toutes et tous", se déroule de janvier 2024 à juin 2025.
 
 ## Notre mission
