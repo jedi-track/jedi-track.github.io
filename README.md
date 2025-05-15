@@ -63,7 +63,7 @@ En tant que Jedis de l'environnement, nous nous engageons à :
   </tr>
 </table>
 
-# 🧙 Le Conseil des Sages (animateurs)
+# 🧙 Le Conseil des Sages
 
 <table>
   <tr>
