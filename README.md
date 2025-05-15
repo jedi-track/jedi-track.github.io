@@ -67,24 +67,24 @@ En tant que Jedis de l'environnement, nous nous engageons à :
 
 <table>
   <tr>
-    <td align="center">
-      <img src="Trombinoscope/Lenna.png?raw=true" height="150" style="aspect-ratio:1/1; border-radius:50%; object-fit:cover;"/><br>
+    <td align="center" valign="top">
+      <img src="Trombinoscope/Lenna.png?raw=true" width="150" height="150" style="border-radius:50%; object-fit:cover;"/><br>
       <strong>Lenna</strong><br>✍️ Je suis MOI
     </td>
-    <td align="center">
-      <img src="Trombinoscope/Manue.png?raw=true" height="150" style="aspect-ratio:1/1; border-radius:50%; object-fit:cover;"/><br>
+    <td align="center" valign="top">
+      <img src="Trombinoscope/Manue.png?raw=true" width="150" height="150" style="border-radius:50%; object-fit:cover;"/><br>
       <strong>Manue</strong><br>✍️ Je suis Manue
     </td>
-    <td align="center">
-      <img src="Trombinoscope/S%C3%A9bastien.png?raw=true" height="150" style="aspect-ratio:1/1; border-radius:50%; object-fit:cover;"/><br>
+    <td align="center" valign="top">
+      <img src="Trombinoscope/S%C3%A9bastien.png?raw=true" width="150" height="150" style="border-radius:50%; object-fit:cover;"/><br>
       <strong>Sébastien</strong><br>✍️ Je suis bio
     </td>
-    <td align="center">
-      <img src="Trombinoscope/Manon.png?raw=true" height="150" style="aspect-ratio:1/1; border-radius:50%; object-fit:cover;"/><br>
+    <td align="center" valign="top">
+      <img src="Trombinoscope/Manon.png?raw=true" width="150" height="150" style="border-radius:50%; object-fit:cover;"/><br>
       <strong>Manon</strong><br>✍️ Je suis donc je pense
     </td>
-    <td align="center">
-      <img src="Trombinoscope/Charly.png?raw=true" height="150" style="aspect-ratio:1/1; border-radius:50%; object-fit:cover;"/><br>
+    <td align="center" valign="top">
+      <img src="Trombinoscope/Charly.png?raw=true" width="150" height="150" style="border-radius:50%; object-fit:cover;"/><br>
       <strong>Charly</strong><br>✍️ Je suis sans inspi
     </td>
   </tr>
