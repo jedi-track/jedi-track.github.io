@@ -1,6 +1,6 @@
 ## Jedi-Track : Jeunes en Quête de Science pour les Territoires
 # Les Jedi Pacman's ᗧ···ᗣ···ᗣ··
-<img src="Images/JEDI-TRACK%20(2).png" alt="JEDI-TRACK logo ou visuel" width="30%">
+<img src="Images/JEDI-TRACK%20(2).png" alt="JEDI-TRACK logo ou visuel">
 
 ## Qui sommes-nous ?
 
