@@ -67,25 +67,25 @@ En tant que Jedis de l'environnement, nous nous engageons à :
 
 <table>
   <tr>
-    <td align="center" valign="top" width="160">
+    <td align="center" valign="top" width="200">
       <img src="Trombinoscope/Lenna.png?raw=true" width="150" height="150" style="border-radius:50%; object-fit:cover;"/><br>
       <strong>Lenna</strong><br>✍️ Je suis MOI
     </td>
-    <td align="center" valign="top" width="160">
-      <img src="Trombinoscope/Manue.png?raw=true" width="150" height="150" style="border-radius:50%; object-fit:cover;"/><br>
-      <strong>Manue</strong><br>✍️ Je suis Manue
+    <td align="center" valign="top" width="200">
+      <img src="Trombinoscope/Manon.png?raw=true" width="150" height="150" style="border-radius:50%; object-fit:cover;"/><br>
+      <strong>Manon</strong><br>✍️ Je suis donc je pense
     </td>
-    <td align="center" valign="top" width="160">
+    <td align="center" valign="top" width="200">
       <img src="Trombinoscope/S%C3%A9bastien.png?raw=true" width="150" height="150" style="border-radius:50%; object-fit:cover;"/><br>
       <strong>Sébastien</strong><br>✍️ Je suis bio
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="160">
-      <img src="Trombinoscope/Manon.png?raw=true" width="150" height="150" style="border-radius:50%; object-fit:cover;"/><br>
-      <strong>Manon</strong><br>✍️ Je suis donc je pense
+    <td align="center" valign="top" width="200">
+      <img src="Trombinoscope/Manue.png?raw=true" width="150" height="150" style="border-radius:50%; object-fit:cover;"/><br>
+      <strong>Manue</strong><br>✍️ Je suis Manue
     </td>
-    <td align="center" valign="top" width="160">
+    <td align="center" valign="top" width="200">
       <img src="Trombinoscope/Charly.png?raw=true" width="150" height="150" style="border-radius:50%; object-fit:cover;"/><br>
       <strong>Charly</strong><br>✍️ Je suis sans inspi
     </td>
