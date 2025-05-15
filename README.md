@@ -79,6 +79,8 @@ En tant que Jedis de l'environnement, nous nous engageons à :
       <img src="Trombinoscope/S%C3%A9bastien.png?raw=true" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br>
       <strong>Sébastien</strong><br>✍️ Je suis bio
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="160">
       <img src="Trombinoscope/Manon.png?raw=true" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br>
       <strong>Manon</strong><br>✍️ Je suis donc je pense
@@ -86,28 +88,6 @@ En tant que Jedis de l'environnement, nous nous engageons à :
     <td align="center" valign="top" width="160">
       <img src="Trombinoscope/Charly.png?raw=true" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br>
       <strong>Charly</strong><br>✍️ Je suis sans inspi
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="160">
-      <img src="Trombinoscope/Mathis.png?raw=true" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br>
-      <strong>Mathis</strong><br>✍️ Je suis codeur
-    </td>
-    <td align="center" valign="top" width="160">
-      <img src="Trombinoscope/Kamerone.png?raw=true" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br>
-      <strong>Kamerone</strong><br>✍️ Je suis la personne qui aime le plus de trucs au monde
-    </td>
-    <td align="center" valign="top" width="160">
-      <img src="Trombinoscope/Loan.png?raw=true" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br>
-      <strong>Loan</strong><br>✍️ Je suis ton père
-    </td>
-    <td align="center" valign="top" width="160">
-      <img src="Trombinoscope/Alexandre.png?raw=true" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br>
-      <strong>Alexandre</strong><br>✍️ Je suis affamé
-    </td>
-    <td align="center" valign="top" width="160">
-      <img src="Trombinoscope/Savannah.png?raw=true" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br>
-      <strong>Savannah</strong><br>✍️ Je suis un guépard
     </td>
   </tr>
 </table>
