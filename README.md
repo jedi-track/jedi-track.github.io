@@ -63,7 +63,7 @@ En tant que Jedis de l'environnement, nous nous engageons à :
   </tr>
 </table>
 
-## 🧙 Le Conseil des Sages (animateurs)
+# 🧙 Le Conseil des Sages (animateurs)
 
 <table>
   <tr>
@@ -92,6 +92,7 @@ En tant que Jedis de l'environnement, nous nous engageons à :
   </tr>
 </table>
 
+<div></div>
 
 # Nos partenaires
 **La Scientothèque**  
