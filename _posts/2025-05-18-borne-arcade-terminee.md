@@ -14,7 +14,7 @@ excerpt: "Après des mois de travail, les Jedi Pacman's ont finalisé leur borne
 
 🎮 **MISSION ACCOMPLIE : Notre borne d'arcade est opérationnelle !**
 
-![Borne d'arcade terminée](/Images/bornefinie.jpg)
+![Borne d'arcade terminée](/Images/PXL_20250618_153452903.jpg)
 
 Après des mois de conception, programmation et assemblage, notre borne d'arcade DIY est enfin prête ! 🔥
 

@@ -5,7 +5,9 @@ main:
     url: /campagnes/
   - title: "Impact local"
     url: /impact/
-  - title: "Rejoignez-nous"
-    url: /rejoignez-nous/
+  - title: "Galerie Photos"
+    url: /galerie/
   - title: "Actualités"
     url: /actualites/
+  - title: "Rejoignez-nous"
+    url: /rejoignez-nous/
