@@ -1,4 +1,9 @@
-# Découverte de la programmation et réalisation de la borne d'arcade du local
+---
+permalink: /campagnes/arcade/
+title: "Découverte de la programmation et réalisation de la borne d'arcade du local"
+layout: single
+author_profile: true
+---
 
 ## Programmer nos jeux sur MakeCode Arcade
 Pour commencer nous avons realisé des jeux sur MakeCode Arcade : 

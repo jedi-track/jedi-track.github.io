@@ -1,0 +1,11 @@
+main:
+  - title: "Accueil"
+    url: /
+  - title: "Nos campagnes"
+    url: /campagnes/
+  - title: "Impact local"
+    url: /impact/
+  - title: "Rejoignez-nous"
+    url: /rejoignez-nous/
+  - title: "Actualités"
+    url: /actualites/

@@ -1,4 +1,10 @@
-# Campagne de sensibilisation au confort thermique
+---
+permalink: /campagnes/thermoconfort/
+title: "Campagne de sensibilisation au confort thermique"
+layout: single
+author_profile: true
+---
+
 <img src="/Images/Fiche_Campagne_Thermoconfort.png" alt="Fiche Campagne Thermoconfort" width="100%">
 
 Pour vérifier le confort thermique, nous avons, pendant une semaine, chacun notre tour, pris un capteur thermique pour vérifier si, chez nous, c'était bien isolé. 

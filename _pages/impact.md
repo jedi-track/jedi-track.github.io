@@ -1,4 +1,10 @@
-# Accessibilité et Confort de Vie  
+---
+permalink: /impact/
+title: "Impact sur l'accessibilité et le confort de vie  "
+layout: single
+author_profile: true
+---
+
 ## À destination des habitants des quartiers de La Pallice et Laleu – La Rochelle  
 
 🗺️ Une **carte interactive, dynamique et participative** pour identifier les **enjeux** et **problèmes d’accessibilité** dans notre quartier.
@@ -23,3 +29,6 @@ C’est un outil **au service du bien commun**.
 
 🧩 Projet inscrit dans une démarche de participation citoyenne locale.
 
+---
+
+[Rejoignez notre action →]({{ '/rejoignez-nous/' | relative_url }}) | [Voir nos campagnes →]({{ '/campagnes/' | relative_url }})

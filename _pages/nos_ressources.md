@@ -7,8 +7,8 @@ Vous trouverez ici des guides, tutoriels et supports visuels librement télécha
 
 Découvrez comment fabriquer vos propres capteurs pour mesurer la température, l’humidité, ou la qualité de l’air à moindre coût.
 
-👉 **[Télécharger le guide (PDF)](lien_vers_le_fichier.pdf)**  
-*(Lien à compléter)*
+👉 **[Télécharger le guide (PDF)](/assets/docs/guide-capteurs-diy.pdf)**
+*(Guide en cours de finalisation - disponible prochainement)*
 
 --
 
@@ -16,8 +16,8 @@ Découvrez comment fabriquer vos propres capteurs pour mesurer la température, 
 
 Apprenez à utiliser des outils libres pour créer une carte collaborative avec les habitants d’un territoire.
 
-👉 **[Télécharger le tutoriel (PDF)](lien_vers_le_fichier.pdf)**  
-*(Lien à compléter)*
+👉 **[Télécharger le tutoriel (PDF)](/assets/docs/tutoriel-cartographie-participative.pdf)**
+*(Tutoriel en cours de finalisation - disponible prochainement)*
 
 --
 
@@ -25,5 +25,5 @@ Apprenez à utiliser des outils libres pour créer une carte collaborative avec 
 
 Des supports visuels créés par les jeunes pour sensibiliser aux effets des îlots de chaleur urbains, à la ventilation naturelle, et à la qualité de l’air.
 
-👉 **[Télécharger les affiches (PDF)](lien_vers_le_fichier.pdf)**  
-*(Lien à compléter)*
+👉 **[Télécharger les affiches (PDF)](/assets/docs/affiches-confort-thermique.pdf)**
+*(Affiches en cours de finalisation - disponibles prochainement)*

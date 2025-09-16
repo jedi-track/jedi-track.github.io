@@ -1,4 +1,10 @@
-# Carte citoyene sur l'accessibilité
+---
+permalink: /campagnes/accessibilite/
+title: "Carte citoyene sur l'accessibilité"
+layout: single
+author_profile: true
+---
+
 <img src="/Images/Fiche_Campagne_Accessibilit%C3%A9.png" alt="Fiche Campagne Accessibilité" width="100%">
 
 Lors d'une journée festive, les jeunes du local ont invité tous les adhérents du Vents des îles à participer à une journée de cartographie ponctuée par un repas partagé au parc de Laleu.
